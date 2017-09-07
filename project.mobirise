@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-07_1114",
+    "name": "您的建议",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.2.3",
     "uniqCompNum": 3,
-    "versionPublish": "4.2.3"
+    "versionPublish": "4.2.3",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
