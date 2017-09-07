@@ -54,7 +54,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#95a5a6",
+            "bgColor": "#ecf0f1",
             "overlay": false,
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
